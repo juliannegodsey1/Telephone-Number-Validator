@@ -28,3 +28,7 @@ This is a simple web application to validate US telephone numbers.
 - JavaScript
 - HTML
 - CSS
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
